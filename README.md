@@ -145,11 +145,11 @@ $recall =  0.719298245614$
 
 $F1score =  0.777251184834$
 
-##### Pickling for use in our Django project
-
-The three trained models were pickled using python's pickle library and then used inside the Django project.
 
 <a id='conclusion'></a>
 ### Conclusion 
 
 In conclusion, we can say that none of these methods do a perfect job in classifying the reviews perfectly. However we can say that the best result was obtained for Random Forest Classifier. And even better result was obtained from the predictor function which aggregates the three classifiers. Another one factor we need to consider is that this model was built on only very limited dataset and has its limitations. Altogether we are able to get fairly good results for a basic implementatio on a web 
+
+### Video Link
+
