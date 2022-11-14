@@ -75,4 +75,5 @@ The dataset contains the review string followed by a binary flag indicating whea
 In conclusion, we can say that none of these methods do a perfect job in classifying the reviews perfectly. However we can say that the best result was obtained for Random Forest Classifier. And even better result was obtained from the predictor function which aggregates the three classifiers. Another one factor we need to consider is that this model was built on only very limited dataset and has its limitations. Altogether we are able to get fairly good results for a basic implementatio on a web 
 
 ### Video Link
+[<img src="https://www.phoneworld.com.pk/wp-content/uploads/2020/08/youtube-cover-photo.jpg" width="60%">](https://www.youtube.com/watch?v=AQSbHV6UCtY)
 
